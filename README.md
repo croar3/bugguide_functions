@@ -1,4 +1,4 @@
-Since BugGuide doesn't expose any API, build this to serve a few purposes:
+Since BugGuide doesn't expose any API, built this to serve a few purposes:
 
 -Get taxon ID and taxon name of a particular image by ID
 
